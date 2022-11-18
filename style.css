@@ -1761,6 +1761,7 @@ footer {
   }
 
   .dummy {
+    display: none !important;
     padding: 32px 0px 0px 0px;
     width: 291px;
     margin: auto;
